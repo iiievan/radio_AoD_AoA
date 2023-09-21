@@ -1,0 +1,8 @@
+.launches/
+.settings/
+Debug/
+settings/
+*.ewt
+*.dep
+*.html
+.metadata/
